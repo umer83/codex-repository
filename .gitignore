@@ -1,0 +1,16 @@
+# Personal configuration, credentials, and runtime state.
+.env
+.env.*
+!.env.example
+auth.json*
+secrets/
+.codex/
+.cursor/
+sessions/
+memories/
+memories_v2/
+*.sqlite*
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

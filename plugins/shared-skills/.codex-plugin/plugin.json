@@ -1,0 +1,10 @@
+{
+  "name": "shared-skills",
+  "version": "1.0.0",
+  "description": "Twenty reusable local development workflows from Umer's Codex setup.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Shared skills",
+    "shortDescription": "Reusable development workflows and focused code reuse."
+  }
+}
